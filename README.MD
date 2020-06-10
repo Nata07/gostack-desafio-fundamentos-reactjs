@@ -9,7 +9,7 @@
     Nessa aplicação, é possivel importar dados financeiro, onde registrará entradas e saidas para controle interno.  </p>
 
 <p> Link do desafio:
-  <a href=https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-react-native/README.md">
+  <a href=https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-react-native/README.md>
     https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-react-native/README.md
   </a>
 </p>
